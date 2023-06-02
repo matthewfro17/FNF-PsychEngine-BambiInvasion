@@ -1,1 +1,0 @@
-return 'dave-and-bambi';
