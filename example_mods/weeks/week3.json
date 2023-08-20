@@ -1,0 +1,32 @@
+{
+	"storyName": "i love daves house remastered!!!!!!!",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "week3",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"defiance",
+			"dave-defiance",
+			[
+				73,
+				13,
+				15
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "defiance"
+}

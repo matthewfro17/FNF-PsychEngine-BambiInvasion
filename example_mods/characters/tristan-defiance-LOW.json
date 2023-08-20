@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-195,
+				-48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-62,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				50,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-83,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/defiance/tristan_low",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tristan-defiance",
+	"flip_x": true,
+	"healthbar_colors": [
+		177,
+		21,
+		1
+	],
+	"camera_position": [
+		-180,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

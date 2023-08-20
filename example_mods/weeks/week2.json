@@ -1,0 +1,50 @@
+{
+	"storyName": "It 3D Now!",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"choco",
+			"choco-pixel",
+			[
+				46,
+				21,
+				9
+			]
+		],
+		[
+			"goose",
+			"amogus-pixel",
+			[
+				255,
+				90,
+				90
+			]
+		],
+		[
+			"equivocation",
+			"expunged-pixel",
+			[
+				168,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "3d week"
+}
